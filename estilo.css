@@ -1,1 +1,59 @@
-body{font-family:Arial;margin:0;color:#123;background:#f4f7f9}header{background:white;padding:20px;display:flex;justify-content:space-between}header img{width:160px}.hero{padding:80px;background:linear-gradient(120deg,#002b50,#00865a);color:white}.hero span{color:#ffc400}.btn{background:#00b86b;color:white;padding:15px;border-radius:30px;text-decoration:none}.card{background:white;margin:20px;padding:25px;border-radius:15px}.impacto{background:#003b63;color:white;padding:40px;text-align:center}footer{background:#111;color:white;padding:20px;text-align:center}
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f4f7f9;
+color:#123;
+}
+header{
+background:white;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 5%;
+}
+header img{width:160px;}
+nav a{
+margin:10px;
+text-decoration:none;
+color:#003b63;
+font-weight:bold;
+}
+.hero{
+padding:90px 8%;
+background:linear-gradient(120deg,#002b50,#009b5a);
+color:white;
+}
+.hero span{color:#ffc400;}
+.botao{
+display:inline-block;
+background:#00b86b;
+color:white;
+padding:15px 30px;
+border-radius:30px;
+text-decoration:none;
+}
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:20px;
+padding:30px 5%;
+}
+.card{
+background:white;
+padding:25px;
+border-radius:15px;
+box-shadow:0 5px 15px #ccc;
+}
+.transparencia{
+background:#003b63;
+color:white;
+padding:40px;
+text-align:center;
+}
+section{padding:30px 5%;}
+footer{
+background:#111;
+color:white;
+padding:20px;
+text-align:center;
+}
