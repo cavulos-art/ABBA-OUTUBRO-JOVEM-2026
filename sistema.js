@@ -1,0 +1,1 @@
+console.log("Projecto Outubro Jovem 2026 carregado");
