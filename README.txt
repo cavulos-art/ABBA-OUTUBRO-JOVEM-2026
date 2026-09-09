@@ -1,1 +1,1 @@
-Atualização: botão de Doação Financeira ligado ao Google Forms do Projecto Outubro Jovem 2026.
+Botão Doação de Bens ligado ao Google Forms.
