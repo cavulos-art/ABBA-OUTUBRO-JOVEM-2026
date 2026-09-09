@@ -1,6 +1,1 @@
-body{font-family:Arial;margin:0;background:#f5f7f9;color:#123}
-header{background:#003b63;color:white;text-align:center;padding:40px}
-.card{background:white;margin:20px;padding:25px;border-radius:15px;box-shadow:0 3px 10px #ccc}
-a{background:#00a86b;color:white;padding:12px 20px;border-radius:20px;text-decoration:none}
-.trans{background:#003b63;color:white;padding:35px;text-align:center}
-footer{background:#111;color:white;text-align:center;padding:20px}
+body{font-family:Arial;background:#f5f7f9;margin:0;color:#123}header,.hero{background:#003b63;color:white;text-align:center;padding:40px}.hero{background:linear-gradient(120deg,#003b63,#008b5a)}.btn,button{background:#00a86b;color:white;padding:12px 22px;border-radius:25px;text-decoration:none;border:0;display:inline-block}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px;padding:30px}.card,.form{background:white;padding:25px;margin:20px;border-radius:15px;box-shadow:0 3px 10px #ccc}input{display:block;width:90%;padding:12px;margin:10px}.trans{background:#003b63;color:white;padding:40px;text-align:center}footer{text-align:center;background:#111;color:white;padding:20px}
